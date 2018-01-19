@@ -1,0 +1,27 @@
+.show{
+    display:block;
+}
+
+.hide{
+    display:none;
+}
+
+.invalid{
+    
+    color: lightcoral;
+}
+
+.photo{
+    height: 100px;
+    width: 100px;
+}
+
+.menuItem:hover {
+    background-color: greenyellow;
+}
+
+.productTable{
+    border: 2px solid black;
+    width: 100%;
+    
+}
